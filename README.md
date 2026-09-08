@@ -211,7 +211,6 @@ uvm-frame-aligner-verification/
 │   └── transaction.sv
 ├── dut.fl
 ├── makefile
-├── .gitignore
 └── README.md
 ```
 
@@ -247,7 +246,7 @@ The simulation uses a `1ns/1ns` timescale and a 20 ns clock period.
 ## Documentation
 
 - [Verification Plan](docs/verification_plan.pdf)
-- [Project documentation folder](docs/)
+- [Final Verification Report](docs/frame%20aligner%20report.pdf)
 
 ## Results
 
