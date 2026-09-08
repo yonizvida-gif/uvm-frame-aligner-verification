@@ -246,7 +246,7 @@ The simulation uses a `1ns/1ns` timescale and a 20 ns clock period.
 
 ## Documentation
 
-- [Verification Plan - English](docs/verification_plan_en.pdf)
+- [Verification Plan - English](docs/verification_plan.pdf)
 - [Project documentation folder](docs/)
 
 ## Results
