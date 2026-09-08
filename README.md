@@ -257,7 +257,6 @@ Additional screenshots and debug evidence are available in [`results/`](results/
 - SystemVerilog
 - UVM
 - Synopsys VCS
-- URG
 - Verdi
 - Assertions
 - Functional Coverage
