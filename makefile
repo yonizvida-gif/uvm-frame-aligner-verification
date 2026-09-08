@@ -9,6 +9,7 @@ TEST ?= my_test
 # ------------------------------------------------------------------------------
 
 VCS = vcs -sverilog -full64 -ntb_opts uvm \
+      +incdir+tb+tb/sequences \
       -timescale="1ns/1ns" \
       -kdb -debug_acc+all \
       -f dut.fl \
