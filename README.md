@@ -246,7 +246,7 @@ The simulation uses a `1ns/1ns` timescale and a 20 ns clock period.
 
 ## Documentation
 
-- [Verification Plan - English](docs/verification_plan.pdf)
+- [Verification Plan](docs/verification_plan.pdf)
 - [Project documentation folder](docs/)
 
 ## Results
@@ -265,9 +265,3 @@ Additional screenshots and debug evidence are available in [`results/`](results/
 - Code Coverage
 - Constrained-Random Verification
 - Directed Corner-Case Verification
-
-## Author
-
-**Yonatan Zvida**
-
-Digital Design Verification Project, 2026
