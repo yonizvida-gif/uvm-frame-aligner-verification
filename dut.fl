@@ -1,4 +1,4 @@
-tb_pkg.sv
-interface.sv
-Frame_aligner.v
-top.sv
+tb/tb_pkg.sv
+tb/interface.sv
+rtl/Frame_aligner.v
+tb/top.sv
